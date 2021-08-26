@@ -711,6 +711,11 @@ footer ul li a:hover {
   transition: 0.5s;
 }
 
+.footer-contact{
+  display:flex;
+  flex-direction: column;
+}
+
 .footer-contact i {
   margin-right: 10px;
 }
